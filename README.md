@@ -1,12 +1,4 @@
-# Projeto Academia SQL
-
-Projeto desenvolvido para praticar SQL Server e conceitos fundamentais de banco de dados.
-
- Objetivo
-
-Este projeto foi criado com o objetivo de consolidar meus conhecimentos em SQL e desenvolver prática com consultas, manipulação e filtragem de dados.
-
- Conceitos praticados
+## Conceitos praticados
 
 * CREATE DATABASE
 * USE
@@ -16,29 +8,21 @@ Este projeto foi criado com o objetivo de consolidar meus conhecimentos em SQL e
 * UPDATE
 * WHERE
 * LIKE
-* AND
-* OR
+* AND / OR
+* ORDER BY
 
-Estrutura da tabela
+## Estrutura do Banco
 
-Tabela: alunos
-
-Campos:
+### Tabela: alunos
 
 * id
 * nome
 * idade
 * email
 
-## Tecnologias utilizadas
+### Tabela: professores
 
-* SQL Server
-* SQL Server Management Studio (SSMS)
-* GitHub
-
-## Próximos passos
-
-* ORDER BY
-* COUNT
-* GROUP BY
-* JOIN
+* id
+* nome
+* especialidade
+* email
